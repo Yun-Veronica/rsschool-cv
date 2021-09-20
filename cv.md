@@ -8,8 +8,8 @@
 * HeadHunter:  *[Yun Veronica](https://hh.kz/resume/91ac79c7ff08977b820039ed1f306c71536861)*
 
 ## *About Me*
-Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении 
-и способности быстро учиться и узнавать новое)
+I have good soft skills, communicative, fast learning.
+My goal is to  always learn new and develop myself, and i want to be  Full-stack Developer. I can and love spend a lot of time doing things that i find interesting(coding, reading books. learning and getting new experience).
 
 ## *Skills*
 * Python(basic knowledge)
